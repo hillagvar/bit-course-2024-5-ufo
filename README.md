@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at:
+Site published at: https://hillagvar.github.io/bit-course-2024-5-ufo/
 
 Design: [UFO](https://dribbble.com/shots/2815937/attachments/2815937-404-page?mode=media)
 
