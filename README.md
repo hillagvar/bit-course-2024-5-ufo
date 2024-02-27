@@ -44,7 +44,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://https://github.com/hillagvar/bit-course-2024-5-ufo.git
+    git clone https://github.com/hillagvar/bit-course-2024-5-ufo.git
     ```
 2. Install NPM packages
     ```sh
